@@ -1,0 +1,15 @@
+body {
+    padding: 50px;
+    font: 14px "Montserrat", Helvetica, Arial, sans-serif;
+  background-image: url('../images/image.jpg');}
+  
+  
+  h1 {
+    font-size: 40px;
+    color:aquamarine;
+  }
+  p {
+    font-size: 20px;
+    color:antiquewhite;
+  }
+  
